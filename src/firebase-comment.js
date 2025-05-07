@@ -4,12 +4,12 @@ import { getStorage } from "firebase/storage";
 import { collection, addDoc } from "@firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDJPq9a0YPoQYkpQ-Uaw7aXQRXzzqOKzFA",
-    authDomain: "web-kelas-tes.firebaseapp.com",
-    projectId: "web-kelas-tes",
-    storageBucket: "web-kelas-tes.appspot.com",
-    messagingSenderId: "890817433268",
-    appId: "1:890817433268:web:11e5258f8864a6174c11e1"
+    apiKey: "AIzaSyDT3mIINf5WZxZKIDXWxNgMlOWEWOYMAw0",
+    authDomain: "portfolio-50c7d.firebaseapp.com",
+    projectId: "portfolio-50c7d",
+    storageBucket: "portfolio-50c7d.firebasestorage.app",
+    messagingSenderId: "801142336766",
+    appId: "1:801142336766:web:58771e1e94389de6bd09af",
 };
 
 // Initialize with a unique name
